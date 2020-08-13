@@ -1,0 +1,11 @@
+title: Nicolas X.Y. Zhang # your name (or website title) here
+logo: "/images/Untitled.png?raw=true" # your photo (or logo) here 
+description: > # your text below (remove <br> elements if you don't need line breaks) Formal training in mathematics and physics in France (classe préparatoire at Lycée Henri IV, M.S. in mathematics at Mines ParisTech, M.S. in "mathematics, vision and learning" - the MVA master - at ENS Paris Saclay), currently graduate student at MIT in the Technology and Policy Program, more precisely in the Institute for Data, Systems and Society (IDSS) advised by Professor Robert M. Townsend, and in the Computer Science & Artificial Intelligence Lab (CSAIL), advised by Professor Vinod Vaikuntanathan. and formerly unsupervised learning at Cardabel, a public-private partnership between financial regulators and banks headed by serial entrepreneurs Evrard van Hertsen and Lionel Simon 
+  French Ingénieur des Mines, working on applying new technologies and techniques for economic and financial analysis (currently at MIT, studying encryption in mechanism design and complex dynamic systems to model monetary anchoring, under the guidance of Professors Robert M. Townsend and Vinod Vaikuntanathan).
+  <br><br> 
+  <a href="https://www.linkedin.com/in/nicolasxuanyi/">View My LinkedIn Profile</a> 
+  <br><br> 
+  
+theme: jekyll-theme-minimal
+<br><br> 
+google_analytics: UA-175064932-1 # your Google Analytics tracking ID here
