@@ -1,3 +1,6 @@
+title: [Building exchanges for economic contracts - definitions and prototypes]
+description: [An illustrated notebook of "Auctions without auctioneers"]
+
 plugins:
   - jekyll-relative-links
 relative_links:
