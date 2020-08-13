@@ -1,4 +1,4 @@
-title: [Building exchanges for economic contracts - definitions and prototypes]
+title: Building exchanges for economic contracts - definitions and prototypes
 description: [An illustrated notebook of "Auctions without auctioneers"]
 
 plugins:
@@ -18,3 +18,4 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 theme: jekyll-theme-cayman
+google_analytics: UA-175064932-1 
