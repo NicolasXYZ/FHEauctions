@@ -1,6 +1,6 @@
 
-title: Building exchanges for economic contracts - definitions and prototypes
-description: An illustrated notebook of "Auctions without auctioneers"
+title: Online appendix of the "Innovative financial design using encryption" outline
+description: An interactive tutorial on replacing the trusted third parties through homomorphic encryption, auctions without auctioneers case¶"
 include:
   - index.md
   - CONTRIBUTING.md
